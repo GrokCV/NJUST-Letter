@@ -1,4 +1,4 @@
-# NJUST-Letter-ZH
+# NJUST-Letter
 
 本项目是在 [HFUT_Letter](https://github.com/HFUTTUG/HFUT_Letter) 基础上编写的南京理工大学 Letter 的 LaTeX 模板（非官方），仅供个人使用。
 
